@@ -37,7 +37,7 @@ The final day concluded the Summer School programme. Its presentations are **not
 
 ## Repository Contents
 
-The `presentations/` folder contains the lecture and session slides from the Summer School. Hands-on materials, such as the notebook from the *Introduction to Artificial Neural Networks* session, are stored in their own folders.
+The `presentations/` folder contains the lecture and session slides from the Summer School, as well as hands-on materials such as the notebook from the *Introduction to Artificial Neural Networks* session.
 
 More information about the project and the Summer School is available on the [NextAIRE website](https://nextaire.eu/).
 
